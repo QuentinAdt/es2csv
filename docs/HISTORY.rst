@@ -2,6 +2,9 @@
 
 Release Changelog
 =================
+6.0.0 (2018-11-12)
+------------------
+- Updating version elasticsearch-py to 6.*.*.
 
 5.5.2 (2018-03-21)
 ------------------
